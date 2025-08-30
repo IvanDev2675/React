@@ -1,6 +1,6 @@
 # React + Vite
 
-![Screenshot TodoList](./react-todo-list/src/assets/image.png)
+![Screenshot TodoList](./src/assets/image.png)
 Lo que Aprendí y Demuestro en Este Proyecto
 Conceptos Avanzados de React Dominados
 . useReducer Hook: Aprendí a manejar estado complejo con acciones y reducers de manera profesional
