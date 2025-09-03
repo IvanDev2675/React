@@ -3,7 +3,7 @@
 <img src="./public/images/image1.png" alt="Vista previa 1" width="45%"/>
 <img src="./public/images/image2.png" alt="Vista previa 2" width="45%"/>
 <img src="./public/images/image3.png" alt="Vista previa 3" width="45%"/>
-<img src="./public/images/image4png" alt="Vista previa 4" width="45%"/>
+<img src="./public/images/image4.png" alt="Vista previa 4" width="45%"/>
 </p>
 
 🍽️ React Menu App
