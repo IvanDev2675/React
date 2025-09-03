@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./image1.png" alt="Vista previa 1" width="45%"/>
   <img src="./image2.png" alt="Vista previa 2" width="45%"/>
-   <img src="./image3.png" alt="Vista previa 3" width="45%"/>
+   <img src="./image3.png" alt="Vista previa 3" width="20%"/>
 </p>
 Este proyecto es un ejercicio en **React** donde se muestra una lista de tours que se pueden eliminar individualmente. Contiene funciones como *ver mas* - *ver menos* que se activan dependiendo el estado del componente. Tambien al eliminar todos los componentes aparece un boton para retornar todos los componentes iniciales. Tiene un numero predeterminado de caracteres que pueden aparecer en su descripcion como vista previa de esa informacion. 
 El objetivo es practicar **componentes**, **props**, **state** y el hook **useEffect**.
